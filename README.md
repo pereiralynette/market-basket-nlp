@@ -1,4 +1,4 @@
-# market-basket-nlp
+# Market-Basket- Analysis using nlp
 ## 📌 Overview
 This beginner-friendly project applies Market Basket Analysis (Apriori/FP-Growth) on the Kaggle Groceries dataset.  
 It integrates NLP techniques to handle synonyms and clusters, making recommendations smarter.
